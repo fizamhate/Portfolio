@@ -107,7 +107,7 @@ const About = () => {
         {/* Grid 5 */}
         <div className="grid-default-color grid-2">
           <div className="z-10 w-[50%]">
-            <p className="text-5xl md:text-2xl font-semibold tracking-tight text-white">Teck Stack</p>
+            <p className="text-5xl md:text-2xl font-semibold tracking-tight text-white">Tech Stack</p>
             <p className="text-xl md:text-5px leading-relaxed text-gray-300 max-w-3xl">
               I work with a range of technologies, including the MERN stack, along with Python, Java, and C/C++. I’m familiar with testing frameworks and databases such as MySQL and Firebase.
             </p>
