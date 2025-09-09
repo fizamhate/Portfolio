@@ -1,7 +1,7 @@
-import { mySocials } from "../constants";
+//import { mySocials } from "../constants";
 const Footer = () => {
   return (
-    <section className="flex flex-col items-center justify-center text-neutral-400 py-12">
+    <section id="contact" className="flex flex-col items-center justify-center text-white py-12">
   {/* Divider */}
   <div className="mb-8 w-full h-px bg-gradient-to-r from-transparent via-neutral-700 to-transparent" />
 

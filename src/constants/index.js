@@ -80,9 +80,9 @@ export const myProjects = [
     subDescription: [
       "",
     ],
-    href: "",
+    href: "https://github.com/fizamhate/InsightPDF",
     logo: "",
-    image: "/assets/projects/blazor-app.jpg",
+    image: "/assets/insight.png",
     tags: [
       {
         id: 1,
@@ -108,23 +108,23 @@ export const myProjects = [
   },
 ];
 
-export const mySocials = [
-  {
-    name: "WhatsApp",
-    href: "",
-    icon: "/assets/socials/whatsApp.svg",
-  },
-  {
-    name: "Linkedin",
-    href: "https://www.linkedin.com/in/ali-sanati/",
-    icon: "/assets/socials/linkedIn.svg",
-  },
-  {
-    name: "Instagram",
-    href: "https://www.instagram.com/ali.sanatidev/reels/",
-    icon: "/assets/socials/instagram.svg",
-  },
-];
+// export const mySocials = [
+//   {
+//     name: "WhatsApp",
+//     href: "",
+//     icon: "/assets/socials/whatsApp.svg",
+//   },
+//   {
+//     name: "Linkedin",
+//     href: "",
+//     icon: "/assets/socials/linkedIn.svg",
+//   },
+//   {
+//     name: "Instagram",
+//     href: "",
+//     icon: "/assets/socials/instagram.svg",
+//   },
+// ];
 
 export const experiences = [
   {
@@ -132,57 +132,10 @@ export const experiences = [
     job: "Nomura",
     date: "July 2024- January 2025",
     contents: [
-      "During my experience, I’ve worked on a variety of automation and testing projects that made a real impact on both efficiency and collaboration. I built a Java-based regression testing tool with interactive HTML/JS reports that made it easier for teams to spot and resolve issues quickly, improving the reliability of trading platforms. I collaborated on developing an automation pack in Java and Cucumber to validate client trade flows, helping ensure more thorough test coverage. To round it off, I developed a Python tool that connected with JIRA APIs to automatically create and organize test cases in Zephyr, saving the team from repetitive manual work and letting them focus on higher-value tasks.",
+      "During my experience, I’ve worked on a variety of automation and testing projects that made a real impact on both efficiency and collaboration.", 
+      "I built a Java-based regression testing tool with interactive HTML/JS reports that made it easier for teams to spot and resolve issues quickly, improving the reliability of trading platforms.",
+      "I collaborated on developing an automation pack in Java and Cucumber to validate client trade flows, helping ensure more thorough test coverage.",
+      "To round it off, I developed a Python tool that connected with JIRA APIs to automatically create and organize test cases in Zephyr, saving the team from repetitive manual work and letting them focus on higher-value tasks.",
     ],
-  },
-];
-export const reviews = [
-  {
-    name: "Jack",
-    username: "@jack",
-    body: "I've never seen anything like this before. It's amazing. I love it.",
-    img: "https://robohash.org/jack",
-  },
-  {
-    name: "Jill",
-    username: "@jill",
-    body: "I don't know what to say. I'm speechless. This is amazing.",
-    img: "https://robohash.org/jill",
-  },
-  {
-    name: "John",
-    username: "@john",
-    body: "I'm at a loss for words. This is amazing. I love it.",
-    img: "https://robohash.org/john",
-  },
-  {
-    name: "Alice",
-    username: "@alice",
-    body: "This is hands down the best thing I've experienced. Highly recommend!",
-    img: "https://robohash.org/alice",
-  },
-  {
-    name: "Bob",
-    username: "@bob",
-    body: "Incredible work! The attention to detail is phenomenal.",
-    img: "https://robohash.org/bob",
-  },
-  {
-    name: "Charlie",
-    username: "@charlie",
-    body: "This exceeded all my expectations. Absolutely stunning!",
-    img: "https://robohash.org/charlie",
-  },
-  {
-    name: "Dave",
-    username: "@dave",
-    body: "Simply breathtaking. The best decision I've made in a while.",
-    img: "https://robohash.org/dave",
-  },
-  {
-    name: "Eve",
-    username: "@eve",
-    body: "So glad I found this. It has changed the game for me.",
-    img: "https://robohash.org/eve",
   },
 ];
