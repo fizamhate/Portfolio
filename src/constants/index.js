@@ -76,7 +76,7 @@ export const myProjects = [
     id: 3,
     title: "InsightPDF: ChatGPT for your PDFs",
     description:
-      "Developed AskYourPDFs, a Streamlit application that utilizes GPT-3.5-turbo and LangChain to answer user question",
+      "Developed a Streamlit application that utilizes GPT-3.5-turbo and LangChain to answer user question",
     subDescription: [
       "",
     ],
